@@ -146,16 +146,6 @@ https://heart-disease-prediction-frsk2ze9xyzowviudve5tz.streamlit.app/
 
 ---
 
-## 📸 Application Screenshot
-
-Add screenshots of your Streamlit application here.
-
-Example:
-
-![Application Screenshot](screenshot.png)
-
----
-
 ## 👩‍💻 Author
 
 **Disha P**
